@@ -1,8 +1,8 @@
 # Odnesi.ba
-Nasa platforma se zove Odnesi.ba. Nas cilj je da stvorimo platforumu zasnovanu na masinskom ucenju koja je sposobna da
-•	Skuplja i analizira podatke sa terena
-•	Predvidja intervale skupljanja otpada 
-•	Genereiše najekonomičnije rute za vozače
+Nasa platforma se zove Odnesi.ba. Nas cilj je da stvorimo platforumu zasnovanu na masinskom ucenju koja je sposobna da: 
+-	Skuplja i analizira podatke sa terena
+- Predvidja intervale skupljanja otpada 
+- Genereiše najekonomičnije rute za vozače
 
 Svaka kontejner bi imao unikatni ID povezan sa korisnikom/korisnicima, samim tim mozemo pratiti odlaganje otpada po osobi, po domacinstvu.
 Svi kamioni bi se opremili sa alatima za sakupljanje podataka u stvarnom vremenu. Koristeci vaga unutar kamiona, kamere sa mogucnosti prepozvanja tipa kontejenra, I gps signala, nasa platform ce da prikuplja podatke od kamiona I od korisnika, i na osnovu tih podataka da pravi predpostavke o tome kad je potrebno ponovono skupljanje otpada.  
